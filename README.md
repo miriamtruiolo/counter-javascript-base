@@ -14,7 +14,7 @@ Il sito è stato pubblicato su GitHub Pages e può essere visualizzato all'indir
 
 ## Screenshot
 
-![Banner](https://miriamtruiolo.github.io/counter-javascript-base/assets/images/preview.png)
+![Banner](https://github.com/miriamtruiolo/counter-javascript-base/blob/main/assets/images/preview.png)
 
 ## Tecnologie utilizzate
 
