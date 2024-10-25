@@ -10,7 +10,7 @@ Il **progetto** è contatore che utilizza Javascript per incrementare o decremen
 
 ## Come provare
 
-Il sito è stato pubblicato su GitHub Pages e può essere visualizzato all'indirizzo https://miriamtruiolo.github.io/counter-javascript-base/
+Il sito è stato pubblicato su GitHub Pages e può essere visualizzato all'indirizzo https://counterjsbase.netlify.app
 
 ## Screenshot
 
